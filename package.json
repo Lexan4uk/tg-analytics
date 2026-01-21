@@ -1,0 +1,7 @@
+{
+	"name": "tg-analytics",
+	"private": true,
+	"workspaces": [
+		"apps/*"
+	]
+}
